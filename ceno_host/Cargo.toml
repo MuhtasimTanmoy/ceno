@@ -6,3 +6,6 @@ version.workspace = true
 
 [dependencies]
 rkyv = "0.8.8"
+
+[dev-dependencies]
+rand.workspace = true
